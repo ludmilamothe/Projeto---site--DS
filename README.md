@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JavaScript
 
 
-## Autor
+## Autora
 Ludmila Mothé
 
 - [Gmail](mailto:ludmila.mothe@gmail.com)
